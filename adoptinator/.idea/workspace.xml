@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44e954cc-9803-47bd-99e3-2a736ff8d976" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZAE2ajtXL02vcK9cAA64hpTBzZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/Pet.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44e954cc-9803-47bd-99e3-2a736ff8d976" name="Default Changelist" comment="" />
+      <created>1584273291733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584273291733</updated>
+      <workItem from="1584273293192" duration="134000" />
+      <workItem from="1584273441829" duration="5171000" />
+      <workItem from="1584280508804" duration="2369000" />
+      <workItem from="1584439476075" duration="593000" />
+      <workItem from="1584531310971" duration="9241000" />
+      <workItem from="1584604933097" duration="599000" />
+      <workItem from="1584691337728" duration="8000" />
+      <workItem from="1584770619361" duration="16354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="135" key="SettingsEditor" timestamp="1584280915586">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="349" y="135" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1584280915586" />
+    <state x="507" y="251" width="665" height="488" key="find.popup" timestamp="1584808851125">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="507" y="251" width="665" height="488" key="find.popup/0.23.1680.944@0.23.1680.944" timestamp="1584808851125" />
+    <state x="505" y="229" width="670" height="674" key="search.everywhere.popup" timestamp="1584808279959">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="505" y="229" width="670" height="674" key="search.everywhere.popup/0.23.1680.944@0.23.1680.944" timestamp="1584808279959" />
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.947@0.23.1680.947" timestamp="1584281058923" />
+  </component>
+</project>
